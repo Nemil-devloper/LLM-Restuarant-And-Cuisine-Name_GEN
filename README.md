@@ -19,4 +19,4 @@ Streamlit
 LangChain
 Hugging Face(Or any other) LLM access with API key
 
-https://github.com/user-attachments/assets/05229a2d-385a-4e2e-8d22-6d9271e5aad9
+
