@@ -7,7 +7,7 @@ from langchain_groq import ChatGroq
 # Set up the Hugging Face LLM
 llm = ChatGroq(
     temperature=0.7,
-    groq_api_key='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',
+    groq_api_key='<Your_api>',
     model_name="llama-3.3-70b-versatile",
 )
 
